@@ -1,7 +1,4 @@
 #!/bin/bash
-# Display content of /etc/passwd
 cat /etc/passwd
-
-# Display content of /etc/hosts
 cat /etc/hosts
 
