@@ -6,6 +6,10 @@ while [ $i -lt 10 ]
 do
     echo "Best School"
 
+<<<<<<< HEAD
  i=$((i+1))
+=======
+    i=$((i+1))
+>>>>>>> 7a8f7c2eadecdc1dfdb3817a777336844f075b04
 
 done
